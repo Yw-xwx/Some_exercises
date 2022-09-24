@@ -10,3 +10,7 @@ You can also learn something you don't know or aren't famliar with.
 
 >And one point about two pointers or double pointers:
 >>`double-pointers.c` has 4 problems,which are all originated from the point of two pointers,which optimize the time cost effectively.  
+
+2022.09.24
+>upload two source code i have done last week:
+>>they are both connect with the MergeSort algorithm,one uses loop and another uses recursion.  
