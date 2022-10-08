@@ -1,3 +1,4 @@
+//找到一串数字的最大间隔,例如1，3，5，8，9最大间隔是3
 #include <stdio.h>
 
 double minx(int n, double *arr); // find minimum in the arr with length=n
